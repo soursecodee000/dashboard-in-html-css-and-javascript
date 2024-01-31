@@ -10,7 +10,7 @@ View: Explore and view posts, images, and other shared content.
 Login/Logout: Securely log in and out of your social media account.
 Like Posts: Express your appreciation for posts by liking them.
 Demo
-You can view a live demo of the social media dashboard:
+You can view a live demo of the social media dashboard: https://dashboard-in-html-css-and-javascript.vercel.app/
 
 Prerequisites
 Before you begin, ensure you have the following installed:
@@ -21,7 +21,7 @@ Getting Started
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/social-media-dashboard.git
+git clone https://github.com/soursecodee000/dashboard-in-html-css-and-javascript.git
 
 2.Open index.html in your preferred web browser.
 
